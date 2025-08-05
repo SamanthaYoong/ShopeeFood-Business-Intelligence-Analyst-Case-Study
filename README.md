@@ -16,7 +16,7 @@ To identify inefficiencies in ShopeeFood’s driver operations by analyzing supp
 
 ---
 
-## Tools & Techniques
+## ✅ Tools & Techniques
 | Tool            | Purpose                                |
 |-----------------|----------------------------------------|
 | SQL             | Data extraction (driver shifts, orders)|
