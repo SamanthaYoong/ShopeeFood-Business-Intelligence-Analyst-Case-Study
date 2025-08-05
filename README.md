@@ -1,4 +1,4 @@
-**From Shortage to Smart Allocation: A Data-Driven Driver Resource Optimization Strategy**
+## **From Shortage to Smart Allocation: A Data-Driven Driver Resource Optimization Strategy**
 
 ## Role Alignment:
 This case study is designed for the **ShopeeFood Business Intelligence Analyst (Fresh Grad)** role. It simulates real-world analysis to:
@@ -53,17 +53,17 @@ To identify inefficiencies in ShopeeFood’s driver operations by analyzing supp
 
 ## 📌 Insights & Recommendations
 
-### ✅ Smart Budget Allocation
+### 1. Smart Budget Allocation
 - Reallocate incentives based on **cost-per-order efficiency**
 - Focus spend on underserved hotspots
 
-### ✅ Real-Time Supply Dashboard
+### 2. Real-Time Supply Dashboard
 - Built dashboard mockup that tracks:
   - Driver density
   - Campaign flag
   - Projected shortage zones
 
-### ✅ Adaptive Campaign Scheduling
+### 3. Adaptive Campaign Scheduling
 - Auto-scale back incentives if **ROI/hour** falls below threshold
 - Integrate holiday/weather forecasting for shift planning
 
@@ -85,9 +85,9 @@ To identify inefficiencies in ShopeeFood’s driver operations by analyzing supp
 
 ---
 
-## 📌 Optional:
-➡️ [**View Dashboard Mockup (Tableau Public)**](https://public.tableau.com/app/profile/samantha.yoong/vizzes)  
-➡️ [**Connect with Me on LinkedIn**](https://www.linkedin.com/in/samantha-yoong-8551b4226/)
+## 📌 Other work:
+- [**View Dashboard Mockups (Tableau Public)**](https://public.tableau.com/app/profile/samantha.yoong/vizzes)  
+- [**Connect with Me on LinkedIn**](https://www.linkedin.com/in/samantha-yoong-8551b4226/)
 
 ---
 
