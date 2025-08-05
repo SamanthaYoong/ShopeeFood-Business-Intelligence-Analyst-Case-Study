@@ -1,6 +1,6 @@
 **From Shortage to Smart Allocation: A Data-Driven Driver Resource Optimization Strategy**
 
-## 📌 Role Alignment:
+## Role Alignment:
 This case study is designed for the **ShopeeFood Business Intelligence Analyst (Fresh Grad)** role. It simulates real-world analysis to:
 - Optimize **driver resource allocation**
 - Improve **budget planning**
@@ -8,7 +8,7 @@ This case study is designed for the **ShopeeFood Business Intelligence Analyst (
 
 ---
 
-## 📌 Objective
+## Objective
 To identify inefficiencies in ShopeeFood’s driver operations by analyzing supply-demand imbalances and budget leakage, and to propose cost-effective strategies to:
 - Prevent driver shortages during peak hours
 - Minimize idle incentives during off-peak
@@ -16,7 +16,7 @@ To identify inefficiencies in ShopeeFood’s driver operations by analyzing supp
 
 ---
 
-## 📌 Tools & Techniques
+## Tools & Techniques
 | Tool            | Purpose                                |
 |-----------------|----------------------------------------|
 | SQL             | Data extraction (driver shifts, orders)|
@@ -26,7 +26,7 @@ To identify inefficiencies in ShopeeFood’s driver operations by analyzing supp
 
 ---
 
-## 📌 Dataset (Simulated)
+## Dataset (Simulated)
 - **Driver Shifts**: ID, Region, Time, Active Hours, Earnings
 - **Orders Completed**: Timestamp, Region, Campaign Flag
 - **Budget Reports**: Actual vs. Projected Spend
