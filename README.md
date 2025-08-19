@@ -6,6 +6,12 @@ This case study is designed for the **ShopeeFood Business Intelligence Analyst (
 - Improve **budget planning**
 - Enhance **driver campaign performance**
 
+🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/samantha.yoong/viz/FromShortagetoSmartAllocationAData-DrivenDriverResourceOptimizationStrategy/Dashboard1#1)
+
+## 📊 Dashboard Preview
+
+![Dashboard Preview](Executive-Overview-(4).png)
+
 ---
 
 ## ✅ Objective
