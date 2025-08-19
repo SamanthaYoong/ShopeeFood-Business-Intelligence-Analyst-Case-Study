@@ -10,7 +10,7 @@ This case study is designed for the **ShopeeFood Business Intelligence Analyst (
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Executive-Overview-(4).png)
+![Dashboard Preview](Dashboard-1.png)
 
 ---
 
